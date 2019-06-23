@@ -105,6 +105,43 @@ ___
  ![Markdown logo](http://markdown-here.com/img/icon256.png)
  
  
+ # GIthub Markdown
  
+ <!--Code blocks-->
+ Using code blocks for specific lang GitHUb gives special color coding and syntax formating
+ 
+ ___BASH___
+ ```bash
+        npm install
+        npm start
+ ```
+ ___JAVASCRIPT___
+ ```javascript
+      function add( num1 ,  num2 ){
+        return num1 + num2 ;
+      }
+```
+
+___PYTHON___
+ ```python
+        def add(num1 , num 2):
+                return num1+num2
+```
+
+<!--Tables-->
+___TABLES___
+
+| Name    | Email                                    |
+| ------------ |------------------------------------------|
+| Krishna |  krishnayele@gmail.com |
+| Krishna yele |  kyele743@gmail.com |
+
+
+<!--Task List-->
+___Task LIST___
+
+* [x] Task 1
+* [x] Task 2
+* [ ]  Task 3
 
 
